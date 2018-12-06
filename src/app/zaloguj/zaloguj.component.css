@@ -1,0 +1,8 @@
+.zaloguj-container {
+    display: flex;
+    flex-direction: column;
+}
+  
+.zaloguj-container > * {
+    width: 100%;
+}
